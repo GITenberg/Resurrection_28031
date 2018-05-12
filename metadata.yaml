@@ -1,0 +1,36 @@
+_repo: Resurrection_28031
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shea, Robert
+    aliases:
+    - Shea, Robert J.
+    - Shea, Robert Joseph
+    birthdate: 1933
+    deathdate: 1994
+    gutenberg_agent_id: '33088'
+    url: http://www.gutenberg.org/2009/agents/33088
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Shea
+description: In the not too distant future medicine, not content with stimulating
+  life and new growth in people who had already died, goes on to further experiments
+  which Baron von Frankenstein would have found interesting.
+gutenberg_bookshelf:
+- Slavery
+- Science Fiction
+gutenberg_issued: '2009-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Resurrection
+url: http://www.gutenberg.org/ebooks/28031
