@@ -17,6 +17,8 @@ creator:
 description: In the not too distant future medicine, not content with stimulating
   life and new growth in people who had already died, goes on to further experiments
   which Baron von Frankenstein would have found interesting.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28031#Resurrection
 gutenberg_bookshelf:
 - Slavery
 - Science Fiction
